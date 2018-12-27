@@ -5,4 +5,4 @@
 - 目前的效果并没有想到很好的应用场景！！！ 只是单纯觉得好玩
 - 闲鱼、淘宝也有类似的产品，不知道他们的实现原理。该项目没有借鉴他们。
 
-![](./image/home1.png)
+![](https://github.com/kaikaixue/PlaybackOP/blob/master/img/thisapp.gif)
