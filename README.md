@@ -8,3 +8,7 @@
 - 闲鱼、淘宝也有类似的产品，不知道他们的实现原理。该项目没有借鉴他们。
 
 ![](https://github.com/kaikaixue/PlaybackOP/blob/master/img/thisapp.gif)
+![](https://github.com/kaikaixue/PlaybackOP/blob/master/img/kaiyan.gif)
+
+图二该项目地址
+https://github.com/kaikaixue/Eyepetizer

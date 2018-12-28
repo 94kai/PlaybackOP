@@ -38,10 +38,13 @@
     <inspection_tool class="JdCyclomaticComplexityWarning" enabled="false" level="WARNING (低复杂度)" enabled_by_default="false" />
     <inspection_tool class="JdJDAndroidSystemOut" enabled="false" level="WARNING (警告)" enabled_by_default="false" />
     <inspection_tool class="JdJDLog" enabled="false" level="MAJOR (一般)" enabled_by_default="false" />
+    <inspection_tool class="JdJDSafeDruid" enabled="false" level="中危风险" enabled_by_default="false" />
     <inspection_tool class="JdJDSafeFastJson" enabled="false" level="中危风险" enabled_by_default="false" />
     <inspection_tool class="JdJDSafeHessianInput" enabled="false" level="中危风险" enabled_by_default="false" />
     <inspection_tool class="JdJDSafeJavaObject" enabled="false" level="中危风险" enabled_by_default="false" />
     <inspection_tool class="JdJDSafeSqlInjectJava" enabled="false" level="高危风险" enabled_by_default="false" />
     <inspection_tool class="JdJDSafeSqlInjectXML" enabled="false" level="高危风险" enabled_by_default="false" />
+    <inspection_tool class="JdJDStrutsDev" enabled="false" level="中危风险" enabled_by_default="false" />
+    <inspection_tool class="JdJDXXE" enabled="false" level="中危风险" enabled_by_default="false" />
   </profile>
 </component>
