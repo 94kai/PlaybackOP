@@ -7,8 +7,11 @@
 - 目前的效果并没有想到很好的应用场景！！！ 只是单纯觉得好玩
 - 闲鱼、淘宝也有类似的产品，不知道他们的实现原理。该项目没有借鉴他们。
 
-![](https://github.com/kaikaixue/PlaybackOP/blob/master/img/thisapp.gif)
 ![](https://github.com/kaikaixue/PlaybackOP/blob/master/img/kaiyan.gif)
 
-图二该项目地址
+图一该项目地址
 https://github.com/kaikaixue/Eyepetizer
+
+
+
+![](https://github.com/kaikaixue/PlaybackOP/blob/master/img/thisapp.gif)
